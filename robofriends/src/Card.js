@@ -1,7 +1,6 @@
 import React from "react"; //importujemo react kako bi program razumeo jsx
 
-const Card = (props) => {
-  const { name, email, id, username } = props;
+const Card = ({ name, email, id, username }) => {
   return (
     <div className="tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5">
       <img alt="robots" src={`https://robohash.org/${id}?200x200`} />
