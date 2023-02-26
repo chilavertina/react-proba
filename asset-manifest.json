@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-proba/static/css/main.785e278d.css",
+    "main.js": "/react-proba/static/js/main.72589944.js",
+    "static/js/787.32032a02.chunk.js": "/react-proba/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/react-proba/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/react-proba/index.html",
+    "main.785e278d.css.map": "/react-proba/static/css/main.785e278d.css.map",
+    "main.72589944.js.map": "/react-proba/static/js/main.72589944.js.map",
+    "787.32032a02.chunk.js.map": "/react-proba/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.785e278d.css",
+    "static/js/main.72589944.js"
+  ]
+}
